@@ -1,4 +1,4 @@
-var name = "Joe"
+var name = "Susan";
 var height = 70
 
 if (name === "Susan")
@@ -8,7 +8,6 @@ if (name === "Susan")
 else {
   console.log("Expected the name to be Susan")
 }
-var name = "Laura"
 // Don't worry about this
 module.exports = { name, height
 }
