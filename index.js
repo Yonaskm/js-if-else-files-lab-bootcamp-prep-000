@@ -8,7 +8,7 @@ if (name === "Susan")
 else {
   console.log("Expected the name to be Susan")
 }
-redef = "Laura";
+redefine name = "Laura;"
 // Don't worry about this
 module.exports = { name, height
 }
